@@ -6,4 +6,5 @@
     <dimen name="textButton">18sp</dimen>
     <dimen name="marginNormal">16dp</dimen>
     <dimen name="rediusLarge">32dp</dimen>
+    <dimen name="marginGiant">96dp</dimen>
 </resources>
